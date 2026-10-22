@@ -1,0 +1,6 @@
+[submodule "external/fsstrap"]
+	path = external/fsstrap
+	url = https://github.com/MoreUtopia/fsstrap
+[submodule "external/utopia"]
+	path = external/utopia
+	url = https://github.com/gorciu-official/Utopia
